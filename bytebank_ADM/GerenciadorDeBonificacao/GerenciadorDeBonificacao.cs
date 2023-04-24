@@ -17,10 +17,5 @@ namespace bytebank_ADM.GerenciadorDeBonificacao
             Console.WriteLine(totalBonificacao);
         }
 
-        public void Registra (Diretor diretor)
-        {
-            totalBonificacao += diretor.getBonificacao();
-            Console.WriteLine(totalBonificacao);
-        }
     }
 }
