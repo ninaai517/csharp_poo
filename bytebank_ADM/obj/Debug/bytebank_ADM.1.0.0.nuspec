@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>bytebank_ADM</id>
+    <version>1.0.0</version>
+    <authors>bytebank_ADM</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\carol\source\repos\OrientacaoAObjeto\Revisao_alura\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.runtimeconfig.json" target="lib\net6.0\bytebank_ADM.runtimeconfig.json" />
+    <file src="C:\Users\carol\source\repos\OrientacaoAObjeto\Revisao_alura\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.dll" target="lib\net6.0\bytebank_ADM.dll" />
+  </files>
+</package>
